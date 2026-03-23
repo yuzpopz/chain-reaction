@@ -1041,11 +1041,11 @@ body {
 }
 
 .confirm-box {
-    background: #020d02;
+    background: #0d0202;
     border: 1px solid #ff444455;
     border-radius: 4px;
     padding: 32px 36px;
-    width: min(380px, 90vw);
+    width: min(400px, 90vw);
     box-shadow: 0 0 60px #ff444422;
     text-align: center;
 }
@@ -1060,7 +1060,7 @@ body {
 }
 
 .confirm-text {
-    font-size: 12.5px;
+    font-size: 13px;
     color: #ffffffaa;
     line-height: 1.7;
     margin-bottom: 24px;
